@@ -1,0 +1,11 @@
+{
+    "name": "Moppy Army",
+    "symbol": "MOPPY",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Moppy Army Token on Base Network.",
+    "website": "",
+    "explorer": "https://basescan.org/token/0x47da87019e3ed8e5e8ac00372f9325c3c4f653f8",
+    "status": "active",
+    "id": "0x47da87019e3ed8e5e8ac00372f9325c3c4f653f8"
+}
